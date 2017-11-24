@@ -13,11 +13,11 @@ googleAnalytics = ""
 # Enable / Disable comments on the articles via Disqus.
 disqusShortname = "bilberry-hugo-theme"
 
-[context.production.environment]
-  HUGO_VERSION = "0.31"
-
-[context.deploy-preview.environment]
-  HUGO_VERSION = "0.31"
+# [context.production.environment]
+#   HUGO_VERSION = "0.31"
+#
+# [context.deploy-preview.environment]
+#   HUGO_VERSION = "0.31"
 
 [params]
   # Favicon for the browser's favorites and tabs
